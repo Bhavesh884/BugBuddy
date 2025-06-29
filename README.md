@@ -98,7 +98,7 @@ REACT_APP_SOCKET_URL=http://localhost:5000
 ### **Authentication & Profiles**
 | Login | Sign Up | Profile Setup |
 |-------|---------|--------------|
-| <img src="https://github.com/user-attachments/assets/de5cccfa-cd4b-4a18-9436-1d56b6dcf5f7" width="300"> | <img src="https://github.com/user-attachments/assets/86971826-9e19-4de2-acde-b3459e81808" width="300"> | <img src="https://github.com/user-attachments/assets/234dee35-9a64-4795-9584-96afd42f6fcb" width="300"> |
+| <img src="https://github.com/user-attachments/assets/de5cccfa-cd4b-4a18-9436-1d56b6dcf5f7" width="300"> | <img src="https://github.com/user-attachments/assets/3de55731-3ed4-4779-bf23-308057d7675a" width="300"> | <img src="https://github.com/user-attachments/assets/234dee35-9a64-4795-9584-96afd42f6fcb" width="300"> |
 
 ### **Matching & Chat**
 | Swipe Interface | Matches | Pending Requests |
@@ -106,7 +106,7 @@ REACT_APP_SOCKET_URL=http://localhost:5000
 | <img src="https://github.com/user-attachments/assets/8187428a-0fc0-435d-b1e4-4d249010623b" width="300"> | <img src="https://github.com/user-attachments/assets/78117253-cbd2-4938-9d35-94f7d5a8ab0d" width="300"> | <img src="https://github.com/user-attachments/assets/f96621fb-6dd6-4698-9d21-0e6ff4c1566c" width="300"> |
 
 ### **Real-Time Features**
-| Chat Window | Video Call |
+| Chat Window | P2P Chat |
 |------------|-----------|
 | <img src="https://github.com/user-attachments/assets/940450ba-c637-4220-9758-6638a9ba2f76" width="300"> | <img src="https://github.com/user-attachments/assets/1764b70e-81b9-4493-b35d-0a90388b3528" width="300"> |
 
