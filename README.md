@@ -94,13 +94,26 @@ REACT_APP_SOCKET_URL=http://localhost:5000
 ---
 
 ## **📸 Screenshots**  
-| **Swipe Interface** | **Real-time Chat** | **Profile Verification** |  
+| **Login** | **Sign Up** | **User Profile Setup** |  
 |--------------------|------------------|------------------------|  
-| ![Swipe](https://via.placeholder.com/300) | ![Chat](https://via.placeholder.com/300) | ![OTP](https://via.placeholder.com/300) |  
+| ![Login](![image](https://github.com/user-attachments/assets/de5cccfa-cd4b-4a18-9436-1d56b6dcf5f7)
+) | ![Sign Up](![image](https://github.com/user-attachments/assets/86971826-9e19-4de2-acde-b345e9e81808)
+) | ![User Profile Setup](![image](https://github.com/user-attachments/assets/234dee35-9a64-4795-9584-96afd42f6fcb)
+) |  
 
-| **Matches Dashboard** | **Docker Setup** | **Mobile Responsive** |  
+| **Real-Time Chat** | **Chat** | 
+|----------------------|----------------|
+
+| ![Real-Time Chat](![image](https://github.com/user-attachments/assets/1764b70e-81b9-4493-b35d-0a90388b3528)
+) | ![Chat](![image](https://github.com/user-attachments/assets/940450ba-c637-4220-9758-6638a9ba2f76)
+) 
+
+| **Matches** | **Swipe Interface Setup** | **Pending Connection Request** |  
 |----------------------|----------------|----------------------|  
-| ![Matches](https://via.placeholder.com/300) | ![Docker](https://via.placeholder.com/300) | ![Mobile](https://via.placeholder.com/300) |  
+| ![Matches](![image](https://github.com/user-attachments/assets/78117253-cbd2-4938-9d35-94f7d5a8ab0d)
+) | ![Swipe Interface Setup](![image](https://github.com/user-attachments/assets/8187428a-0fc0-435d-b1e4-4d249010623b)
+) | ![Pending Connection Request](![image](https://github.com/user-attachments/assets/f96621fb-6dd6-4698-9d21-0e6ff4c1566c)
+) |  
 
 
 ---
